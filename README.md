@@ -1,1 +1,3 @@
-<img src="https://zupimages.net/up/21/03/fwnk.jpg" alt="Capture d'écran du site de l'Access Code School" align="center">
+<a href="https://github.com/bdebot-dev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdebot-dev&theme=dark&hide=hack" />
+</a>
